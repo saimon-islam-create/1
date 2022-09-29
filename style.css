@@ -54,7 +54,8 @@
     width: auto;
     position: absolute;
     top: 38%;
-
+    left: 25%;
+    
     text-align: center;
 }
 .logo{
@@ -73,7 +74,7 @@
     color: rgb(255, 6, 6);
     font-size: 50px;
     margin-top: 180px;
-    transform: translateX(260px);   
+     
     
 
 }
@@ -81,7 +82,7 @@
     margin: 20px auto;
     font-size: 18px;
     font-weight: bold;
-    transform: translateX(260px);
+    
 }
 button{
     width: 200px;
