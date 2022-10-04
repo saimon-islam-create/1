@@ -7,7 +7,7 @@
     width: auto;
     background:linear-gradient(to top ,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(background.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: auto;
     height: 100vh;
 
 }
