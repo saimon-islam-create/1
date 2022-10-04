@@ -54,8 +54,7 @@
     width: auto;
     position: absolute;
     top: 38%;
-    left: auto;
-    transform: translateX(300px);
+    transform: translateX(700px);
     text-align: center;
 }
 .logo{
