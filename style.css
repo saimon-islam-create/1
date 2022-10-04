@@ -54,18 +54,17 @@
     width: auto;
     position: absolute;
     top: 38%;
-    transform: translateX(300px);
+    transform: translateX(380px);
     text-align: center;
 }
 .logo{
-    width: 630px;
-    height: 260px;
+    width: 500px;
+    height: 200px;
     cursor: pointer;
-    transform: translateY(-89px);
 
 }
 .logo{
-
+    
     position: absolute;
 }   
 
