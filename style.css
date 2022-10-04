@@ -58,13 +58,14 @@
     text-align: center;
 }
 .logo{
-    width: 400px;
-    height: 150px;
+    width: 630px;
+    height: 260px;
     cursor: pointer;
+    transform: translateY(-89px);
 
 }
 .logo{
-    width: auto;
+
     position: absolute;
 }   
 
